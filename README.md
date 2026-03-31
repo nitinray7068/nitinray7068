@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm NITIN RAY</h1>
+![logo](https://github.com/nitinray7068/nitinray7068/blob/main/Nitin%20Image%20Mar%2031%2C%202026%2C%2011_17_03%20AM.png)
+ <h1 align="center">Hi 👋, I'm NITIN RAY</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinray7068&label=Profile%20views&color=0e75b6&style=flat" alt="nitinray7068" /> </p>
